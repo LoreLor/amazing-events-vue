@@ -110,7 +110,9 @@ body {
 .form-check-inline label{
     color: var(--magenta);
     font-weight: 600;
+    padding-left: 0.5rem;
 }
+
 .form-check-input {
     border: 2px solid var(--dark-violet) !important;
     background-color: var(--white-color);
